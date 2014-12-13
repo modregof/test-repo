@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This a test-repo
+This my test-repo.
